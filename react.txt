@@ -22,3 +22,7 @@ REACT WITH CLASS COMPONENT
 ---------------------
     * npm install axios
     * import Axios from 'axios'
+
+5 - Get no_modules to cloned project
+------------------------------------
+    * npm install
