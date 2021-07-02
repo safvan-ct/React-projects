@@ -1,0 +1,4 @@
+1 - Installation
+-----------------
+    * npm create-react-app app-name
+    * npm start
