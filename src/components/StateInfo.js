@@ -52,11 +52,13 @@ class StateInfo extends Component {
                                     district_list.push(obj);
                                 }
 
+                                let count = key+1;
+
                                 return (
                                     <Card>
                                         <Accordion.Toggle as={Button} variant="link" className="bg-info mb-3" eventKey={key}>
                                             <Card.Header className="text-white">
-                                                <span className="float-left">{++key} - {value}</span>
+                                                <span className="float-left">{count} - {value}</span>
                                                 <span className="float-right">
                                                     <span className="btn btn-warning mr-1"> 
                                                         Total Cases { total_confirm }
