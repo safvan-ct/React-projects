@@ -2,3 +2,15 @@
 -----------------
     * npm create-react-app app-name
     * npm start
+
+2 - Bootstrap Installation
+--------------------------
+    * url: https://react-bootstrap.github.io/getting-started/introduction
+    * npm install react-bootstrap bootstrap@4.6.0
+    * import bootstrap in App.js import 'bootstrap/dist/css/bootstrap.min.css';
+    * import { Navbar, Nav } from 'react-bootstrap'; import component of bootstrap
+
+3 - Router configuration
+-------------------------
+    * npm install react-router-dom
+    * import in App.js
