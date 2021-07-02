@@ -13,4 +13,9 @@
 3 - Router configuration
 -------------------------
     * npm install react-router-dom
-    * import in App.js
+    * import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+
+4 - Api configuration
+---------------------
+    * npm install axios
+    * import Axios from 'axios'
