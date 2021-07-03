@@ -25,7 +25,7 @@ class World extends Component {
                         <h5>World Data</h5>
                     </div>
 
-                    <div className="col-md-12 mb-3">
+                    <div className="col-md-12 mb-3 table-responsive">
                         <table className="table-striped table">
                             <thead>
                                 <tr>

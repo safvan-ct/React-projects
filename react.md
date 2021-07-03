@@ -3,6 +3,7 @@ REACT WITH CLASS COMPONENT
 
 1 - Installation
 -----------------
+    * install node https://nodejs.org/en/
     * npm create-react-app app-name
     * npm start
 
