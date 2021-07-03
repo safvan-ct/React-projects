@@ -5,6 +5,7 @@ REACT WITH CLASS COMPONENT
 -----------------
     * install node https://nodejs.org/en/
     * npm create-react-app app-name
+    * npx create-react-app myapp
     * npm start
 
 2 - Bootstrap Installation
